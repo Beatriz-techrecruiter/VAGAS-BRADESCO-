@@ -91,4 +91,4 @@ Descontos em farmácias, teatro, cinema, academias, salões de beleza, EF (plata
 
 PLR
 
-1 vez por semana, presencial no escritório localizado em Barueri.
+1 vez por semana, presencial no escritório localizado em Barueri ou em Curitiba.
