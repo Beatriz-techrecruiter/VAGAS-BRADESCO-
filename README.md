@@ -1,4 +1,4 @@
-# VAGA-BRADESCO-SRE Pleno 
+# VAGA-BRADESCO-SRE PLENO
 **ANALISTA ENGENHARIA E CONFIABILIDADE SISTEMAS PLENO (SRE) - BRADESCO**
 
 Link para inscrição: https://pageoutsourcingbr.gupy.io/jobs/2896752
