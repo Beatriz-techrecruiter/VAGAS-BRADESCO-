@@ -1,6 +1,8 @@
 # VAGAS-BRADESCO-
 **ANALISTA ENGENHARIA E CONFIABILIDADE SISTEMAS PLENO (SRE) - BRADESCO**
 
+Link para inscrição: https://pageoutsourcingbr.gupy.io/jobs/2896752
+
 **JOB DESCRIPTION**
 Acreditamos que é possível desafiar o futuro com pessoas e tecnologia, e reconhecemos nas pessoas, especialmente, um dos mais importantes motivos de nosso sucesso. Assim, proporcionamos aos nossos colaboradores um ambiente seguro, diverso e inclusivo, que inspira confiança, promove e estimula o desenvolvimento pessoal e profissional.
 
